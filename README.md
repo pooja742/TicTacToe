@@ -2,9 +2,7 @@
 
 Welcome to my Tic Tac Toe game! This is a simple and fun implementation of the classic game built using HTML, CSS, and JavaScript.
 
-## Live Demo
-
-You can play the game [here](https://pooja742.github.io/TicTacToe/).
+### You can play the game [here](https://pooja742.github.io/TicTacToe/).
 
 ## Features
 
